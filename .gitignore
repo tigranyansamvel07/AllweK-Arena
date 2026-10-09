@@ -1,4 +1,11 @@
-# Keep this showcase repository source-free.
+# Showcase-only repository
+#
+# This public repository is used only to present the live project and portfolio README.
+# It intentionally excludes source code, private implementation details, configuration,
+# generated files, local assets, credentials, logs, and deployment artifacts.
+#
+# Only the public showcase files below should be committed.
+
 *
 !README.md
 !.gitignore
